@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+target/
+*.iml
+.idea/*
+out/
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+*.war
+*.ear
+*.nar
+hs_err_pid*
